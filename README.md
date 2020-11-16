@@ -1,2 +1,2 @@
-# web-projects
+# Portfolio
 Short Projects on web designing
